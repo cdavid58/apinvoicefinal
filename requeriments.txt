@@ -1,0 +1,8 @@
+Django==3.2.8
+django-cors-headers
+djangorestframework
+img2pdf
+Pillow
+plyer
+python-barcode 
+requests
